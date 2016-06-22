@@ -14,15 +14,15 @@
 
 ### 包管理器
 
- * composer
+ * [composer](https://getcomposer.org/)
 
 ### 需要熟悉的框架
 
- * Symfony
- * Laravel
- * Codeigniter
- * Slim
- * Silex
+ * [Symfony](https://symfony.com/)
+ * [Laravel](https://www.laravel.com)
+ * [Codeigniter](http://www.codeigniter.com/)
+ * [Slim](www.slimframework.com)
+ * [Silex](http://silex.sensiolabs.org/)
 
 ### 库
 
@@ -41,6 +41,7 @@
 **数据库**
 
   * [Illuminate Database](https://github.com/illuminate/database)
+  * [DBAL](https://github.com/doctrine/dbal)
 
 **邮件**
 
