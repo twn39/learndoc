@@ -64,3 +64,20 @@
 
   * [zend ACL](https://github.com/zendframework/zend-permissions-acl)
   * [zend RBAC](https://github.com/zendframework/zend-permissions-rbac)
+
+**Http**
+  
+  * [Guzzle](https://github.com/guzzle/guzzle)
+
+**数据迁移**
+
+  * [phinx](https://phinx.org/)
+
+**加密**
+
+  * [cakephp/utility](https://github.com/cakephp/utility)
+
+**命令行**
+
+  * [climate](https://github.com/thephpleague/climate)
+  * [console](https://github.com/symfony/console)
