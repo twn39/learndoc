@@ -30,10 +30,12 @@
 **路由**
 
   * [fastroute](https://github.com/nikic/FastRoute)
+  * [route](http://route.thephpleague.com/)
 
 **DI**
 
-  * [pimple](https://github.com/silexphp/Pimple)
+  * [Pimple](https://github.com/silexphp/Pimple)
+  * [Container](http://container.thephpleague.com/)
 
 **模板引擎**
 
