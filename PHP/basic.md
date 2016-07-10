@@ -21,6 +21,7 @@
  * [Symfony](https://symfony.com/)
  * [Laravel](https://www.laravel.com)
  * [Codeigniter](http://www.codeigniter.com/)
+ * [Zend framework](https://framework.zend.com/)
  * [Slim](www.slimframework.com)
  * [Silex](http://silex.sensiolabs.org/)
 
